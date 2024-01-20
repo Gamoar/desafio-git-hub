@@ -1,1 +1,0 @@
-Anotações sobre o curso oferecido pela Dio sobre Git e Github.
